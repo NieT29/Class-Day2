@@ -1,0 +1,43 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.heading-1 {
+    color: red;
+}
+
+.heading-2 {
+    color: green;
+}
+
+#heading3-1 {
+    color: blue;
+} 
+
+#heading3-2 {
+    color: orange;
+}
+
+/* vi du X Y */
+
+h4 {
+    color: pink;
+}
+
+h5 {
+    color: red;
+}
+
+.box-content h4 {
+    color: black;
+}
+
+/* vidu: link */
+a:link {
+    color: black;
+}
+
+a:visited {
+    color: red;
+}
